@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![Ladder Cup '21](images/instagram.jpg)
+<img src="images/instagram.jpg" width="300" alt="Ladder Cup '21"/>
 
 Intentamos que nuestra marca se diferencie de la escena actual de esports para aportar algo distinto a la industria. 
 
