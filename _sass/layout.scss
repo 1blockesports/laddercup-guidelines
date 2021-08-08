@@ -99,11 +99,13 @@
 
 .site-header {
   display: flex;
-  min-height: $header-height;
+  // min-height: $header-height;
   align-items: center;
-
+  padding: 1rem 0;
+  height: 90px;
+  max-height: 90px;
   @include mq(md) {
-    height: $header-height;
+    // height: $header-height;
     max-height: $header-height;
     border-bottom: $border $border-color;
   }
@@ -114,6 +116,8 @@
   flex-grow: 1;
   display: flex;
   height: 100%;
+  display: block;
+  height: 90px;
   align-items: center;
   padding-top: $sp-3;
   padding-bottom: $sp-3;
