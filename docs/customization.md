@@ -9,7 +9,7 @@ nav_order: 6
 Dentro de los colores el logo es versátil aunque tiene tres opciones estáticas.
 
 
-<div style="display:flex;flex-direction:row;flex-wrap:wrap">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between">
 <div style="width:33%">
 <div style="width:100%;height:70px;background-color:red"></div>
 <dl>
