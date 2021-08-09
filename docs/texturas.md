@@ -14,7 +14,9 @@ También cuando es posible, se añade a logo dorado una textura algo brillosa pa
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center">
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/>
-[Descargar textura Roca 1](https://drive.google.com/uc?export=download&id=1V2Z8uvu-HkzwimlNdU5QRNOgdkigMlos){: .btn .btn-outline }
+
+[Descargar textura Roca 1](https://drive.google.com/uc?export=download&id=1jIv5P8etJRGN3qRv7Zk0RsUnRNxf26Wy){: .btn .btn-outline }
+
 </div>
 <img src="../../assets/images/texture-5.png" alt="Referencia textura"/>
 <img src="../../assets/images/texture-2.png" alt="Referencia textura"/>
@@ -23,5 +25,7 @@ También cuando es posible, se añade a logo dorado una textura algo brillosa pa
 <br>
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center">
 <img src="../../assets/images/texture-6.png" alt="Referencia textura"/>
+
 [Descargar textura dorada](https://drive.google.com/uc?export=download&id=1V2Z8uvu-HkzwimlNdU5QRNOgdkigMlos){: .btn .btn-outline }
+
 </div>
