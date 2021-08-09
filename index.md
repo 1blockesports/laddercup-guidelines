@@ -2,7 +2,7 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Intentamos que nuestra marca se diferencie de la escena actual de esports para aportar algo distinto a la industria."
 permalink: /
 ---
 
