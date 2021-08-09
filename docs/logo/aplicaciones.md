@@ -14,7 +14,7 @@ Este logo es funcional para cuando se requiere de claridad y no de impacto visua
 <br /><br />
 
 # Logo en blanco
-<img src="../../assets/images/logo-white.jpg" width="300" alt="Ladder Cup '21"/>
+<img src="../../../assets/images/logo-white.jpg" width="300" alt="Ladder Cup '21"/>
 <br /><br />
 Legales, marcas de agua, etc.
 
