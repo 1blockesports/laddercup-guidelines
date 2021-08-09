@@ -30,9 +30,7 @@ abcdefghijklmnopqrstuvwxyz
 <br><br>
 
 # Cuerpo
-### Lato 
-Google fonts
-{: .label .label-green }
+### Lato Google fonts{: .label .label-green }
 <br><br>
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
