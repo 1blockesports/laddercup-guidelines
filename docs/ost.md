@@ -21,9 +21,20 @@ Big Leagues Song by Vic Sage<br>
 Egos Song by Nate Rose<br>
 <audio controls>
   <source src="../../assets/audio/egos.mp3" type="audio/mpeg">
-</audio>
+</audio><br><br>
 
 Mona Lisa Bonet Song by Latrell James<br>
 <audio controls>
   <source src="../../assets/audio/mona-lisa.mp3" type="audio/mpeg">
-</audio>
+</audio><br><br>
+
+Ocean Song by Vic Sage<br>
+<audio controls>
+  <source src="../../assets/audio/ocean.mp3" type="audio/mpeg">
+</audio><br><br>
+
+You Song by NM<br>
+<audio controls>
+  <source src="../../assets/audio/you.mp3" type="audio/mpeg">
+</audio><br><br>
+
