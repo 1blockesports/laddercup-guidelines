@@ -45,7 +45,7 @@ ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?�
 <li><strong>Fuente</strong>: Lato</li>
 <li><strong>Peso</strong>: 400 o Regular</li>
 <li><strong>Estilo</strong>: Normal</li>
-<li> Google fonts{: .label .label-green }</li>
+<li> Google fonts {: .label .label-green }</li>
 </ul>
 </div>
 </div>
