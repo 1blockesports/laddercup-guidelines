@@ -29,14 +29,16 @@ Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cu
 
 <br /><br />
 
-[Descargar Pack](https://drive.google.com/uc?export=download&id=1mTonB75oNffbnHdnpOAFQ9O_nFQk4i_4){: .btn .btn-outline }
+[Descargar Pack](https://drive.google.com/uc?export=download&id=17P9qayTuZIxVtrwJR-1nXKtCpZHGcKRV){: .btn .btn-outline }
 
 *Incluye:*
 <ul>
 <li>Imagotipo Blanco</li>
 <li>Imagotipo Negro</li>
 <li>Imagotipo Dorado</li>
+<li>Imagotipo con textura dorada (PSD)</li>
 <li>Isotipo Blanco</li>
 <li>Isotipo Negro</li>
 <li>Isotipo Dorado</li>
+<li>Isotipo con textura dorada (PSD)</li>
 </ul>
