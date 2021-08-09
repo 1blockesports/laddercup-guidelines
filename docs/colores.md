@@ -110,10 +110,12 @@ Estos colores aplican para presentaciones, infografías u ocasionalmente cuando 
 
 # Descargas 
 
+<br>
+
 [Descargar gradiente photoshop](https://drive.google.com/uc?export=download&id=16aSmyQHg6T2WESqL7slokfx_o3Q08Smn){: .btn .btn-outline }<br><br>
 [Descargar swatch illustrator](https://drive.google.com/uc?export=download&id=1hqza5KwFOKBJZEOWOq1lIU8t3Yd_cSdw){: .btn .btn-outline }
 
-<br><br>
+<br>
 
 # Gradiente Dorado en css
 <br>
