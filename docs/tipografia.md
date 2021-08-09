@@ -64,8 +64,10 @@ ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?�
 <li><strong>Peso</strong>: 400 o Regular</li>
 <li><strong>Estilo</strong>: Normal</li>
 </ul>
+
 Google fonts
 {: .label .label-green }
+
 </div>
 </div>
 <br>
