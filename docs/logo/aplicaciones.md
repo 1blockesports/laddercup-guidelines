@@ -28,3 +28,15 @@ Legales, marcas de agua, etc.
 Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cuando va a estar sólo. Este es el logo principal para redes sociales sobre todo. Este logo incluye un gradiente y una textura.
 
 <br /><br />
+
+[Descargar Pack](https://drive.google.com/uc?export=download&id=1mTonB75oNffbnHdnpOAFQ9O_nFQk4i_4){: .btn .btn-outline }
+
+*Incluye:*
+<ul>
+<li>Imagotipo Blanco</li>
+<li>Imagotipo Negro</li>
+<li>Imagotipo Dorado</li>
+<li>Isotipo Blanco</li>
+<li>Isotipo Negro</li>
+<li>Isotipo Dorado</li>
+</ul>
