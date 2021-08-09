@@ -4,7 +4,7 @@ title: Soundtrack
 nav_order: 8
 ---
 
-# Hashtags
+# Soundtracks
 
 Pedir acceso al drive que contiene el soundtrack original de la copa.
 
@@ -42,4 +42,11 @@ All the Way Up Song by Hadar Sopher<br>
 <audio controls>
   <source src="../../assets/audio/all-the-way-up.mp3" type="audio/mpeg">
 </audio><br><br>
+
+# OST Oficial RIOT LOL
+
+La copa cuenta con el permiso para utilizar la música oficial de LOL.
+
+[Lista de spotify](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v?si=Ah6UhnKyTbShFqpER6wjcQ&dl_branch=1){: .btn .btn-green .mr-4 }
+
 
