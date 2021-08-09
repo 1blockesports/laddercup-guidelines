@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Packs PNG's
+title: Packs de imágenes
 parent: Logo
 nav_order: 5
 ---
@@ -10,8 +10,13 @@ Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas co
 
 <br /><br />
 
-[Descargar Pack Vertical](https://drive.google.com/uc?export=download&id=1mTonB75oNffbnHdnpOAFQ9O_nFQk4i_4){: .btn .btn-outline }
+[Descargar Pack Vertical](https://drive.google.com/uc?export=download&id=15XwNZVJkIJmwI4BHUNajao6Vx_3hpGc3){: .btn .btn-outline }
 
-[Descargar Pack Horizontal](https://drive.google.com/uc?export=download&id=1mTonB75oNffbnHdnpOAFQ9O_nFQk4i_4){: .btn .btn-outline }
+[Descargar Pack Horizontal](https://drive.google.com/uc?export=download&id=1v4HRy1NG9BRRqizJkn7ZNmdVM0MZPpWK){: .btn .btn-outline }
+
+[Descargar Pack Isotipo](https://drive.google.com/uc?export=download&id=1DMAIqavppZGuscKJeyCi4xEcKjFp2YvU){: .btn .btn-outline }
+
+
+# Packs de imágenes generales
 
 [Descargar Pack de imágenes](https://drive.google.com/uc?export=download&id=1mTonB75oNffbnHdnpOAFQ9O_nFQk4i_4){: .btn .btn-outline }
