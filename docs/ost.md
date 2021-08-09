@@ -11,14 +11,14 @@ Pedir acceso al drive que contiene el soundtrack original de la copa.
 
 ## Muestras
 
+Big Leagues Song by Vic Sage<br><br>
 <audio controls>
   <source src="../../assets/audio/big-leagues.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
 </audio>
 <br>
 <br>
 
+Egos Song by Nate Rose<br><br>
 <audio controls>
   <source src="../../assets/audio/egos.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
 </audio>
