@@ -5,10 +5,10 @@ parent: Logo
 nav_order: 5
 ---
 
-# Packs en PNG's
+# Packs de imágenes
 Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas como photosohop o illustrator.
 
-<br /><br />
+<br />
 
 # Imagotipo vertical
 
