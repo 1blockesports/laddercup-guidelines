@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Identidad
+title: Lenguaje
 nav_order: 5
 ---
 
-# Identidad
+# Lenguaje
 
 Nuestra idea es mostrar siempre la Ladder Cup '21 como un torneo profesional dedicado al esfuerzo, la pasión y el desempeño. Es por eso que nunca debe ser asociado con la burla hacia los equipos o jugadores. Mantener el código de conducta es esencial así como también establecer un nuevo estandar en los esports en nuestra región.
 
