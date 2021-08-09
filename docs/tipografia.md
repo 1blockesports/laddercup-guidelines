@@ -3,6 +3,9 @@ layout: default
 title: Tipografía
 nav_order: 4
 ---
+#Tipografía 
+
+La tipografía que se utiliza es una tipografía fuerte, moderna y versátil, tiene diferentes pesos, pero se utilizan dos para dar contraste y se utiliza bastante comprimida para darle aún más fuerza.
 
 # Titulares
 
@@ -73,11 +76,17 @@ ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?�
 <br>
 <br>
 
+# Nota
+Existe la posibilidad de distorsionar la fuente para crear algún efecto o bien de "ahuecarla". También se puede exagerar el interletrado, pero no para titulares.
+
 # Ejemplos de uso
-<img src="../../assets/images/refe-typo-1.jpg" width="300" alt="Referencia tipografía"/>
+<img src="../../assets/images/refe-typo-1.jpg" alt="Referencia tipografía"/>
 
 <br>
-<br>
+
+<img src="../../assets/images/refe-typo-2.jpg" alt="Referencia tipografía"/>
+
+<img src="../../assets/images/refe-typo-3.jpg" alt="Referencia tipografía"/>
 
 
-<img src="../../assets/images/refe-typo-2.jpg" width="300" alt="Referencia tipografía"/>
+<img src="../../assets/images/refe-typo-4.jpg" alt="Referencia tipografía"/>
