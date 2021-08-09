@@ -38,3 +38,8 @@ You Song by NM<br>
   <source src="../../assets/audio/you.mp3" type="audio/mpeg">
 </audio><br><br>
 
+All the Way Up Song by Hadar Sopher<br>
+<audio controls>
+  <source src="../../assets/audio/all-the-way-up.mp3" type="audio/mpeg">
+</audio><br><br>
+
