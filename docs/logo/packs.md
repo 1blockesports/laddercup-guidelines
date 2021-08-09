@@ -9,8 +9,15 @@ nav_order: 5
 Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas como photosohop o illustrator.
 
 <br /><br />
+# Logo vertical
+
+<img src="../../../assets/images/referencia_blanco.png" width="200" alt="Logo dorado"/>
+<img src="../../../assets/images/referencia_negro.png" width="200" alt="Logo dorado"/>
+<img src="../../../assets/images/referencia_dorado.png" width="200" alt="Logo dorado"/>
 
 [Descargar Pack Vertical](https://drive.google.com/uc?export=download&id=15XwNZVJkIJmwI4BHUNajao6Vx_3hpGc3){: .btn .btn-outline }
+
+---
 
 [Descargar Pack Horizontal](https://drive.google.com/uc?export=download&id=1v4HRy1NG9BRRqizJkn7ZNmdVM0MZPpWK){: .btn .btn-outline }
 
