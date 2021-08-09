@@ -122,9 +122,8 @@
   padding-top: $sp-3;
   padding-bottom: $sp-3;
   color: $body-heading-color;
-  background-color: red;
   @include fs-6;
-
+  
   @include mq(md) {
     padding-top: $sp-2;
     padding-bottom: $sp-2;
@@ -138,7 +137,10 @@
     background-image: url($logo);
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 100%;
+    background-size: 60%;
+    @include mq(md) {
+      background-size: 100%;
+    }
   }
 }
 
