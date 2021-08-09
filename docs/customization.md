@@ -10,7 +10,7 @@ Dentro de los colores el logo es versátil aunque tiene tres opciones estáticas
 
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
-<div style="width:33%">
+<div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
 <div style="width:90%;height:70px;background-color:red"></div>
 <dl>
   <dt>RGB</dt>
@@ -23,7 +23,7 @@ Dentro de los colores el logo es versátil aunque tiene tres opciones estáticas
   <dd>Green</dd>
 </dl>
 </div>
-<div style="width:33%">
+<div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
 <div style="width:90%;height:70px;background-color:red"></div>
 <dl>
   <dt>RGB</dt>
@@ -36,7 +36,7 @@ Dentro de los colores el logo es versátil aunque tiene tres opciones estáticas
   <dd>Green</dd>
 </dl>
 </div>
-<div style="width:33%">
+<div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
 <div style="width:90%;height:70px;background-color:red"></div>
 <dl>
   <dt>RGB</dt>
