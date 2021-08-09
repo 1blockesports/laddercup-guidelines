@@ -10,10 +10,10 @@ nav_order: 4
 <br><br>
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:flex-start">
-<div style="width:33%">
-AA
+<div style="width:13%">
+<h4>AA</h4>
 </div>
-<div style="width:33%">
+<div style="width:54%">
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 1234567890(,.;:?!$&*)
