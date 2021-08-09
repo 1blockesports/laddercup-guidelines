@@ -2,7 +2,6 @@
 layout: default
 title: Permitidos
 parent: Logo
-has_children: true
 nav_order: 4
 ---
 
