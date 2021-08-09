@@ -63,12 +63,14 @@ ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?�
 <li><strong>Fuente</strong>: Lato</li>
 <li><strong>Peso</strong>: 400 o Regular</li>
 <li><strong>Estilo</strong>: Normal</li>
-<li> Google fonts {: .label .label-green }</li>
 </ul>
+Google fonts
+{: .label .label-green }
 </div>
 </div>
 <br>
 <br>
 
 # Ejemplos de uso
+<img src="../../assets/images/refe-typo-1.jpg" width="300" alt="Referencia tipografía"/>
 
