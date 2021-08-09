@@ -5,6 +5,8 @@ parent: Logo
 nav_order: 1
 ---
 
+# Aplicaciones
+
 # Logo en negro
 
 <img src="../../../assets/images/logo-black.jpg" width="300" alt="Logo negro"/>

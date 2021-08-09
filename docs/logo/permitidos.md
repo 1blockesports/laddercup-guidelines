@@ -5,8 +5,6 @@ parent: Logo
 nav_order: 4
 ---
 
-
-
 # Permitidos
 
 <div style="display:flex;justify-content:space-between;align-items:center">

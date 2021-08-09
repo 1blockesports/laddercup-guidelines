@@ -3,7 +3,7 @@ layout: default
 title: Tipografía
 nav_order: 4
 ---
-#Tipografía 
+# Tipografía 
 
 La tipografía que se utiliza es una tipografía fuerte, moderna y versátil, tiene diferentes pesos, pero se utilizan dos para dar contraste y se utiliza bastante comprimida para darle aún más fuerza.
 
