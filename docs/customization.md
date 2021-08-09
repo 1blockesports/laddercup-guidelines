@@ -11,9 +11,9 @@ Dentro de los colores el logo es versátil aunque tiene tres opciones estáticas
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap">
 <div style="width:33%">
-<div style="width:100%;height:100px;background-color:red"></div>
+<div style="width:100%;height:50px;background-color:red"></div>
 <dl>
-  <dt>Name</dt>
+  <dt>RGB</dt>
   <dd>Godzilla</dd>
   <dt>Born</dt>
   <dd>1952</dd>
@@ -24,7 +24,27 @@ Dentro de los colores el logo es versátil aunque tiene tres opciones estáticas
 </dl>
 </div>
 <div style="width:33%">
+<dl>
+  <dt>RGB</dt>
+  <dd>Godzilla</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
+</dl>
 </div>
 <div style="width:33%">
+<dl>
+  <dt>RGB</dt>
+  <dd>Godzilla</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
+</dl>
 </div>
 </div>
