@@ -48,7 +48,7 @@ abcdefghijklmnopqrstuvwxyz
 </div>
 </div>
 
-[Descarga](https://drive.google.com/uc?export=download&id=1soq7QRpwMWOqOhfU1zDRL2LxRi9IwfS2){: .btn .btn-outline }
+[Descargar fuente](https://drive.google.com/uc?export=download&id=1soq7QRpwMWOqOhfU1zDRL2LxRi9IwfS2){: .btn .btn-outline }
 
 
 <br><br>
@@ -75,6 +75,11 @@ ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?�
 </div>
 <br>
 <br>
+
+
+[Descargar fuente](https://drive.google.com/uc?export=download&id=1rACfNujM8slLpiL1VhtVL1iXygcm5TZx){: .btn .btn-outline }
+
+<br><br>
 
 # Nota
 Existe la posibilidad de distorsionar la fuente para crear algún efecto o bien de "ahuecarla". También se puede exagerar el interletrado, pero no para titulares.
