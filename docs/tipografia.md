@@ -56,9 +56,6 @@ abcdefghijklmnopqrstuvwxyz
 # Cuerpo
 ### Lato
 
-Google Fonts
-{: .label .label-green }
-
 <br><br>
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
