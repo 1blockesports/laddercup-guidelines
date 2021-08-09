@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Packs PNG's
+parent: Logo
 nav_order: 5
-has_children: true
-permalink: docs/packs
 ---
 
 # Packs en PNG's
