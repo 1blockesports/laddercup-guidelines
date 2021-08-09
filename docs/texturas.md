@@ -12,4 +12,9 @@ También cuando es posible, se añade a logo dorado una textura algo brillosa pa
 
 
 
-<img src="../../assets/images/refe-typo-4.jpg" alt="Referencia tipografía"/>
+<img src="../../assets/images/texture-1.png" alt="Referencia textura"/>
+<img src="../../assets/images/texture-2.png" alt="Referencia textura"/>
+<img src="../../assets/images/texture-3.png" alt="Referencia textura"/>
+<img src="../../assets/images/texture-4.png" alt="Referencia textura"/>
+<img src="../../assets/images/texture-5.png" alt="Referencia textura"/>
+<img src="../../assets/images/texture-6.png" alt="Referencia textura"/>
