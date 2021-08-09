@@ -11,7 +11,7 @@ nav_order: 4
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
 <div style="width:13%">
-<h4 style="font-size: 3rem !important;">AA</h4>
+<h4 style="font-size: 3rem !important;font-weight:900">AA</h4>
 </div>
 <div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -22,6 +22,24 @@ abcdefghijklmnopqrstuvwxyz
 <ul>
 <li><strong>Fuente</strong>: Morganite</li>
 <li><strong>Peso</strong>: 900 o Black</li>
+<li><strong>Estilo</strong>: Normal</li>
+</ul>
+</div>
+</div>
+
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
+<div style="width:13%">
+<h4 style="font-size: 3rem !important;font-weight:100">AA</h4>
+</div>
+<div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+1234567890(,.;:?!$&*)
+</div>
+<div style="width:33%">
+<ul>
+<li><strong>Fuente</strong>: Morganite</li>
+<li><strong>Peso</strong>: 100 o light</li>
 <li><strong>Estilo</strong>: Normal</li>
 </ul>
 </div>
@@ -49,3 +67,8 @@ ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?�
 </ul>
 </div>
 </div>
+<br>
+<br>
+
+# Ejemplos de uso
+
