@@ -40,8 +40,6 @@ También el logo tiene distintas variaciones para cuando la pieza en la que tien
 <li>Isotipo Dorado</li>
 </ul>
 <br>
-<br>
-
 
 [Descargar Pack con Textura Photoshop](https://drive.google.com/uc?export=download&id=1O8ZcjkCVzRkREdpIvYYyFGDa9tRXvyCQ){: .btn .btn-outline }
 
