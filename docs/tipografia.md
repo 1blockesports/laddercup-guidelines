@@ -49,6 +49,10 @@ abcdefghijklmnopqrstuvwxyz
 
 # Cuerpo
 ### Lato
+
+Google Fonts
+{: .label .label-green }
+
 <br><br>
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
@@ -64,10 +68,6 @@ ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?�
 <li><strong>Peso</strong>: 400 o Regular</li>
 <li><strong>Estilo</strong>: Normal</li>
 </ul>
-
-Google fonts
-{: .label .label-green }
-
 </div>
 </div>
 <br>
@@ -76,3 +76,8 @@ Google fonts
 # Ejemplos de uso
 <img src="../../assets/images/refe-typo-1.jpg" width="300" alt="Referencia tipografía"/>
 
+<br>
+<br>
+
+
+<img src="../../assets/images/refe-typo-2.jpg" width="300" alt="Referencia tipografía"/>
