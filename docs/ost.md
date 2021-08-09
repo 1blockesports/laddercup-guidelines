@@ -43,9 +43,9 @@ All the Way Up Song by Hadar Sopher<br>
   <source src="../../assets/audio/all-the-way-up.mp3" type="audio/mpeg">
 </audio><br><br>
 
-# OST Oficial RIOT LOL
+# OST LOL
 
-La copa cuenta con el permiso para utilizar la música oficial de LOL.
+La Ladder Cup '21 cuenta con el permiso de **Riot Games, Inc.** para utilizar la música oficial de LOL.
 
 [Lista de spotify](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v?si=Ah6UhnKyTbShFqpER6wjcQ&dl_branch=1){: .btn .btn-green .mr-4 }
 
