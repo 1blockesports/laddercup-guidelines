@@ -9,7 +9,7 @@ nav_order: 4
 ### Morganite
 <br><br>
 
-<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:flex-start">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
 <div style="width:13%">
 <h4 style="font-size: 3rem !important;">AA</h4>
 </div>
@@ -22,6 +22,30 @@ abcdefghijklmnopqrstuvwxyz
 <ul>
 <li><strong>Fuente</strong>: Morganite</li>
 <li><strong>Peso</strong>: 900 o Black</li>
+<li><strong>Estilo</strong>: Normal</li>
+</ul>
+</div>
+</div>
+
+<br><br>
+
+# Cuerpo
+### Lato 
+Google fonts
+{: .label .label-green }
+<br><br>
+
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
+<div style="width:13%">
+<h4 style="font-size: 3rem !important;">AA</h4>
+</div>
+<div style="width:54%">
+ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?’“!”(%)[#]{@}/&\<-+÷×=>®©$€£¥¢:;,.*
+</div>
+<div style="width:33%">
+<ul>
+<li><strong>Fuente</strong>: Lato</li>
+<li><strong>Peso</strong>: 400 o Regular</li>
 <li><strong>Estilo</strong>: Normal</li>
 </ul>
 </div>
