@@ -8,8 +8,6 @@ nav_order: 5
 # Packs de imágenes
 Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas como photosohop o illustrator.
 
-<br />
-
 # Imagotipo vertical
 
 <img src="../../../assets/images/referencia_blanco.png" width="200" alt="Logo dorado"/>
@@ -40,4 +38,4 @@ Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas co
 
 # Packs de imágenes generales
 
-[Descargar Pack de imágenes](https://drive.google.com/uc?export=download&id=1mTonB75oNffbnHdnpOAFQ9O_nFQk4i_4){: .btn .btn-outline }
+Coming soon...
