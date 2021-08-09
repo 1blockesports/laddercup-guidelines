@@ -13,7 +13,7 @@ nav_order: 4
 <div style="width:13%">
 <h4 style="font-size: 3rem !important;">AA</h4>
 </div>
-<div style="width:54%">
+<div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 1234567890(,.;:?!$&*)
@@ -39,7 +39,7 @@ Google fonts
 <div style="width:13%">
 <h4 style="font-size: 3rem !important;">AA</h4>
 </div>
-<div style="width:54%">
+<div style="width:54%;overflow-wrap: anywhere;padding: 1rem;">
 ABCĆDEFGHIJKLMNOPQRSŠTUVWXYZŽabcćdefghijklmnopqrsštuvwxyzž1234567890‘?’“!”(%)[#]{@}/&\<-+÷×=>®©$€£¥¢:;,.*
 </div>
 <div style="width:33%">
