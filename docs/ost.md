@@ -15,3 +15,10 @@ Pedir acceso al drive que contiene el soundtrack original de la copa.
   <source src="../../assets/audio/big-leagues.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<br>
+<br>
+
+<audio controls>
+  <source src="../../assets/audio/egos.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
